@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649784156 source:d:\workspace\xingnengceshispace\parallel\sparsematrixmulti1\main.cpp
+	<pmmintrin.h>
+	<xmmintrin.h>
+	<cstdlib>
+	<algorithm>
+	<windows.h>
+	<iostream>
+	<ctime>
+	<immintrin.h>
+

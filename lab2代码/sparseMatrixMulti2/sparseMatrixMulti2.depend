@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649769831 source:d:\workspace\xingnengceshispace\parallel\sparsematrixmulti2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+
