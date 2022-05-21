@@ -1,0 +1,45 @@
+鲲鹏arm平台下的数据
+serial:               4.08947
+spmm_neon:            2.08836
+spmm_static:          3.25811
+spmm_openmp_static    0.288023
+spmm_dynamic:         0.28378
+spmm_openmp_dynamic   0.270902
+spMM_static_neon:     3.40676
+spmm_open_static_neon 0.139566
+spmm_dynamic_neon:    0.244391
+spmm_open_dyna_neon   0.131194
+
+x86平台下的数据
+serial:              0.19396
+spmm_sse:            0.275429
+spmm_avx:            0.158629
+spmm_static1:        0.108424
+spmm_openmp_static   0.0715419
+spmm_pthread_sse:    0.104145
+spmm_open_static_sse 0.0617367
+spmm_pthread_avx:    0.0715756
+spmm_open_static_avx 0.0486985
+spmm_dynamic:        0.0863934
+spmm_openmp_dynamic  0.0661424
+spmm_dynamic_sse:    0.0846195
+spmm_open_dyna_sse   0.0564238
+spmm_dynamic_avx:    0.0655917
+spmm_open_dyna_avx   0.047729
+
+本机linux平台下的数据
+serial:             1.51025
+spmm_sse:           0.847338
+spmm_avx:           0.473775
+spmm_static1:       0.481962
+spmm_openmp_static  1.57428
+spmm_pthread_sse:   0.286155
+spmm_open_static_sse0.873372
+spmm_pthread_avx:   0.156433
+spmm_open_static_avx0.472009
+spmm_dynamic:       0.512814
+spmm_openmp_dynamic 1.57394
+spmm_dynamic_sse:   0.269201
+spmm_open_dyna_sse  0.877203
+spmm_dynamic_avx:   0.150733
+spmm_open_dyna_avx  0.474249
